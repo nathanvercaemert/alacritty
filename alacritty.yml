@@ -7,11 +7,12 @@ font:
   size: 16.0
 colors:
   primary:
-    background: '#000000'
+    background: '#FFFFFF'
+    foreground: '#000000'
   cursor:
     custom_cursor_colors: true
-    text: '0x000000'
-    cursor: '0xFFFFFF'
+    text: '0xFFFFFF'
+    cursor: '0x000000'
 env:
   TERM: alacritty
 key_bindings:
